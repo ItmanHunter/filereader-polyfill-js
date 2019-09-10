@@ -12,7 +12,7 @@ if (!FileReader.prototype.readAsBinaryString) {
            }
             var e = {}
             e['target'] = {}
-            ee['target']['result'] = binary
+            e['target']['result'] = binary
             pt.onload(e);
         }
         reader.readAsArrayBuffer(fileData);
