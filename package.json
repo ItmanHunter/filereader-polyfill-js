@@ -1,6 +1,6 @@
 {
   "name": "filereader-polyfill-js",
-  "version": "1.0.0",
+  "version": "2.0",
   "description": "Provides methods for various apis. ",
   "main": "main.js",
   "scripts": {
