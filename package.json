@@ -1,0 +1,19 @@
+{
+  "name": "filereader-polyfill-js",
+  "version": "1.0.0",
+  "description": "Provides methods for various apis. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ItmanHunter/filereader-polyfill-js"
+  },
+  "keywords": [
+    "filereader",
+    "polyfill"
+  ],
+  "author": "ItmanHunter",
+  "license": "MIT"
+}
